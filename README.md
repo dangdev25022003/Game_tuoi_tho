@@ -20,6 +20,7 @@ Bạn còn nhớ những ngày thơ bé, cầm trên tay chiếc điện thoại
 🔹 Bước 1: Đảm bảo đã cài đặt Python (>=3.7).
 
 🔹 Bước 2: Clone repository về máy:
+
 Copy
 Edit
 ```bash
