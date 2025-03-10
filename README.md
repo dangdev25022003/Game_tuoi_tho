@@ -15,22 +15,30 @@ Bạn còn nhớ những ngày thơ bé, cầm trên tay chiếc điện thoại
 🟦 Xếp Gạch (Tetris.py) – Sắp xếp những khối gạch kinh điển, đạt điểm số cao nhất! 🏗️
 🎁 … Và còn nhiều trò chơi thú vị khác đang chờ bạn khám phá!
 
-🚀 Hướng dẫn chạy game
-🔹 Bước 1: Đảm bảo đã cài đặt Python (>=3.7).
-🔹 Bước 2: Clone repository về máy:
+🚀 Hướng dẫn chạy game:
 
-bash
+🔹 Bước 1: Đảm bảo đã cài đặt Python (>=3.7).
+
+🔹 Bước 2: Clone repository về máy:
 Copy
 Edit
+```bash
 git clone https://github.com/dangdev25022003/flask_basic.git
 cd flask_basic
-🔹 Bước 3: Kiểm tra tất cả đường dẫn đến hình ảnh, âm thanh, đồ họa đã được đặt đúng trong các file Tetris.py, game_dino.py và game_snake.py.
+```
+🔹 Bước 3: Kiểm tra tất cả đường dẫn đến hình ảnh, âm thanh, đồ họa đã được đặt đúng trong các file:
+```
+Tetris.py, game_dino.py và game_snake.py
+```
+
 🔹 Bước 4: Chạy file main.py để khởi động trò chơi:
 
-bash
 Copy
 Edit
+
+```bash
 python main.py
+```
 🔹 Bước 5: Chọn trò chơi yêu thích và tận hưởng! 🎉
 
 🎨 Lưu ý về đồ họa
