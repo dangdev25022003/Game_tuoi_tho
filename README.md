@@ -21,8 +21,6 @@ Bạn còn nhớ những ngày thơ bé, cầm trên tay chiếc điện thoại
 
 🔹 Bước 2: Clone repository về máy:
 
-Copy
-Edit
 ```bash
 git clone https://github.com/dangdev25022003/flask_basic.git
 cd flask_basic
@@ -33,9 +31,6 @@ Tetris.py, game_dino.py và game_snake.py
 ```
 
 🔹 Bước 4: Chạy file main.py để khởi động trò chơi:
-
-Copy
-Edit
 
 ```bash
 python main.py
